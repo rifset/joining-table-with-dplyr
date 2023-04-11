@@ -37,7 +37,7 @@ There are six types of JOIN in the `dplyr` package: inner, right, left, full, se
   <img src="asset/joins_dplyr_ilust.png" width = "55%" />
 </p>
 
-The illustration above is from [Rpubs](https://rpubs.com/jcross/joins).
+The illustration above is from [Rpubs](https://rpubs.com/jcross/joins) [1].
 
 ### For illustration purpose
 
