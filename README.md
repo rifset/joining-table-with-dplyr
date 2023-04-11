@@ -34,7 +34,7 @@ Join is needed when we want to combine two or more tables with shared columns. T
 There are six types of JOIN in the `dplyr` package: inner, right, left, full, semi, and anti-join.
 
 <p align = "center">
-  <img src="asset/joins_dplyr_ilust.png" width = "40%" />
+  <img src="asset/joins_dplyr_ilust.png" width = "55%" />
 </p>
 
 The illustration above is from [Rpubs](https://rpubs.com/jcross/joins).
