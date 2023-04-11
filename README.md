@@ -146,7 +146,7 @@ characters %>%
   <img src="asset/case-1.png" width = "75%" />
 </p>
 
-**Case 2:** Suppose we want to know the name of the characters and their respective TV series that were not released. We may use two approaches. The first can be done using INNER and LEFT join, while the second approach is via LEFT join only.
+**Case 2:** Suppose we want to know the name of the characters and their respective TV series that were not released. We may use two approaches. The first can be done using INNER and LEFT join, while the second approach is via LEFT join only. Please note that by default R will return columns with the same name but modified in such have additional characters that distinguish from which table they originally belonged.
 
 ```r
 # Case 2 (approach 1)
